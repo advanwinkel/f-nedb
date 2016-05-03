@@ -7,3 +7,4 @@ Also replace SERVICE_ENDPOINT  by the actual url path, for instance "/messages"
 
 Run npm install.
 Run node app.js. Open browser to http://localhost:3030/SERVICE_ENDPOINT
+For POST, DELETE, PUT, PATCH use something like Postman. This way all CRUD operations are possible
